@@ -1,3 +1,4 @@
 Resolusi HR
 - Berburu hadits shahih
 - Camtumkan nomer hadits
+- Bulk txt hadits to img
